@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **karam.alachkar16@gmail.com**
 
-- ⚡ Fun fact **I think I will be a professional developer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
