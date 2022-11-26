@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-photo/business-man-using-computer-hand-260nw-2059017617.jpg)
+![MasterHead](https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?fit=1351%2C675&strip=all)
 <h1 align="center">Hi 👋, I'm Karam Al Ashkar</h1>
 <h3 align="center">A Junior Full Stack Web Developer</h3>
 
