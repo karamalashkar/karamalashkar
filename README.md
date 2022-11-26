@@ -1,4 +1,4 @@
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onlc.com%2Fblog%2Fbenefits-career-computer-programming%2F&psig=AOvVaw3_AMWj-Ul97RJNYuUN1G6P&ust=1669572631555000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjy9O-4zPsCFQAAAAAdAAAAABAE'/>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onlc.com%2Fblog%2Fbenefits-career-computer-programming%2F&psig=AOvVaw3_AMWj-Ul97RJNYuUN1G6P&ust=1669572631555000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjy9O-4zPsCFQAAAAAdAAAAABAE'>
 
 <h1 align="center">Hi 👋, I'm Karam Al Ashkar</h1>
 <h3 align="center">A junior developer from Lebanon</h3>
