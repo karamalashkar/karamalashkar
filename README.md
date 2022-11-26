@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karam Al Ashkar</h1>
 <h3 align="center">A Junior Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **new frameworks and libraries (Laravel,React))**
+- 🌱 I’m currently learning **new frameworks and libraries (Laravel,React)**
+
+- 📫 How to reach me **karam.alachkar16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
