@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karamalashkar&label=Profile%20views&color=0e75b6&style=flat" alt="karamalashkar" /> </p>
 
-- 🌱 I’m currently learning **new frameworks and libraries (Laravel,React)**
+- 🌱 I’m currently learning **new frameworks and libraries (Laravel,React,React Native)**
 
 - 📫 How to reach me **karam.alachkar16@gmail.com**
 
